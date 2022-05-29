@@ -195,6 +195,7 @@ Discord:
       Messages: []
       Commands:
         - 'banip %player% 30m Suspicious activity.'
+  CommandsAfter2FA: []
   CommandsAfterVerification: []
   CommandsAfterUnlink: []
   CommandsAfterServerBoosting: []
