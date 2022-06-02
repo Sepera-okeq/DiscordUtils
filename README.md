@@ -58,6 +58,12 @@ You have the possibility to test the plugin without installing it on your server
 2. Open `plugins` folder in server.
 3. Drop jar file in folder.
 4. Run server and edit config.
+
+## Build plugin's (Maven)
+`apt instal maven`
+`git clone https://github.com/mirrerror/DiscordUtils`
+`cd DiscordUtils`
+`mvn compile`
 ___
 
 Project distributed under **Apache License 2.0**
